@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="56" fill="#060A16"/>
+  <rect x="48" y="48" width="1104" height="804" rx="42" fill="url(#bg)"/>
+  <circle cx="920" cy="240" r="140" fill="#44D4FF" fill-opacity="0.16"/>
+  <circle cx="288" cy="670" r="180" fill="#8B7DFF" fill-opacity="0.16"/>
+  <path d="M280 674C364 510 516 430 704 430C814 430 908 472 1000 552" stroke="#F4F7FF" stroke-opacity="0.18" stroke-width="16" stroke-linecap="round"/>
+  <path d="M282 650C372 560 474 516 612 516C744 516 862 554 954 636" stroke="#44D4FF" stroke-opacity="0.35" stroke-width="20" stroke-linecap="round"/>
+  <rect x="226" y="188" width="274" height="274" rx="40" fill="rgba(255,255,255,0.08)"/>
+  <path d="M278 364V264H340C370 264 392 286 392 316V318C392 348 370 370 340 370H304V364H278Z" fill="#F4F7FF"/>
+  <path d="M292 250H340C354 250 366 260 366 274V276C366 290 354 300 340 300H292V250Z" fill="#8B7DFF"/>
+  <rect x="560" y="188" width="392" height="274" rx="40" fill="rgba(255,255,255,0.06)"/>
+  <path d="M620 364V246H724C780 246 826 292 826 348V350C826 406 780 452 724 452H620V364ZM688 318V380H720C738 380 752 366 752 348V346C752 328 738 314 720 314H688Z" fill="#F4F7FF"/>
+  <text x="240" y="760" fill="#F4F7FF" font-family="Inter, Arial, sans-serif" font-size="110" font-weight="700" letter-spacing="6">洞悉</text>
+  <text x="240" y="822" fill="#8B7DFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500" letter-spacing="8">INSIGHT / VISION</text>
+  <defs>
+    <linearGradient id="bg" x1="92" y1="92" x2="1076" y2="816" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161F49"/>
+      <stop offset="0.5" stop-color="#0B112C"/>
+      <stop offset="1" stop-color="#1C2348"/>
+    </linearGradient>
+  </defs>
+</svg>
